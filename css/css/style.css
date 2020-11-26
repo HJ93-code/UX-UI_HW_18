@@ -117,7 +117,6 @@ header{
     border-bottom-left-radius: 100%;
     transition: all 650ms cubic-bezier(1,0,0,1);
 }
-
 .nav-list{
     list-style: none;
     width: 100%;
@@ -232,13 +231,9 @@ li{
     cursor: pointer;
     transition: background-color 650ms;
     margin-top: 25px;
-    margin-bottom: 25px;
-    
+    margin-bottom: 25px;  
 }
 
-button:active{
-    transform:scale(1.1);
-}
 
 
 
