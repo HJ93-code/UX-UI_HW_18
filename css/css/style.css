@@ -160,8 +160,26 @@ li{
 
 .landing-text h6{
     font-size: 2rem;
-    font-weight: 300;
+    font-weight: 400;
 
+}
+
+
+.down-cv {
+    border:2px solid;
+    color:#373636;
+    width:120px;
+    height:35px;
+    font-family: sans-serif;
+    outline: none;
+    position:relative;    
+    margin-top: 25px;
+    margin-bottom: 25px;
+    
+}
+
+button:active{
+    transform:scale(1.1);
 }
 
 
