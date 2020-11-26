@@ -116,7 +116,6 @@ header{
     border-bottom-right-radius: 100%;
     border-bottom-left-radius: 100%;
     transition: all 650ms cubic-bezier(1,0,0,1);
-
 }
 
 .nav-list{
@@ -225,13 +224,13 @@ li{
 }
 
 .down-cv {
-    border:2px solid;
-    color:#373636;
-    width:120px;
-    height:35px;
-    font-family: sans-serif;
-    outline: none;
-    position:relative;    
+    width: initial;
+    background-color: #eee;
+    color: #16162d;
+    padding: 1rem 2rem;
+    border-radius: .8rem;
+    cursor: pointer;
+    transition: background-color 650ms;
     margin-top: 25px;
     margin-bottom: 25px;
     
