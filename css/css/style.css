@@ -207,8 +207,8 @@ li{
 
 .landing-text h1
 {
-    font-size: 20rem;
-    font-family: 'sans-serif','The Historia Demo'; 
+    font-size: 15rem;
+    font-family: futura; 
     background: linear-gradient(to top, #ffe838, #2b4bd6);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
